@@ -29,7 +29,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program:
 
-    ![image](https://github.com/Revanth-2717/Muttiple-capacity-with-infinite-capacity/assets/152462274/e3e25f77-a50b-44ac-be47-78847be9f42f)
+![image](https://github.com/Revanth-2717/Muttiple-capacity-with-infinite-capacity/assets/152462274/3c2fa825-ec0e-487c-8d2e-8b2fdff11a4b)
+
 
 
 ## Output :
